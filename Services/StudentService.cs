@@ -4,10 +4,10 @@ public class StudentService
 {
     // some code
 
-    public List<string> Students()
+    public List<string> GetStudents()
     {
         return new List<string>(){
-            "hello", "Hi"
+            "test", "hello"
         };
     }
 }
