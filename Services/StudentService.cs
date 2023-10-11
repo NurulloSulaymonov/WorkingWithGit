@@ -7,7 +7,7 @@ public class StudentService
     public List<string> Students()
     {
         return new List<string>(){
-            "hello", "Hi"
+            "something new", "test"
         };
     }
 }
